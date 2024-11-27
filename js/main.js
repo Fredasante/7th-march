@@ -56,7 +56,7 @@
 })(jQuery);
 
 // Set the date we're counting down to November 23rd, 2024
-const countDownDate = new Date("November 29, 2024 14:00:00").getTime();
+const countDownDate = new Date("November 29, 2024 15:00:00").getTime();
 
 // Update the countdown every second
 const x = setInterval(function () {
